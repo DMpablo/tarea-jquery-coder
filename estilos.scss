@@ -7,11 +7,15 @@ body{
         div.container{
             width: 80%;
             margin: 0 auto;
+            h4{
+                font-size: 20px;
+                margin-bottom: 5px;
+            }
             div.row{ 
                 margin: 0 auto;
                 button{
-                    width: 40%;
-                    
+                    width: 40vw;
+                   
                 }
             }
         }
